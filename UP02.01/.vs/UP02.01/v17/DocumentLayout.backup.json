@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\429195-27\\Desktop\\UP02.01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|C:\\Users\\429195-27\\Desktop\\UP02.01\\up02.01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|solutionrelative:up02.01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|c:\\users\\429195-27\\desktop\\up02.01\\up02.01\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|solutionrelative:up02.01\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|c:\\users\\429195-27\\desktop\\up02.01\\up02.01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|solutionrelative:up02.01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|c:\\users\\429195-27\\desktop\\up02.01\\up02.01\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|solutionrelative:up02.01\\allusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|c:\\users\\429195-27\\desktop\\up02.01\\up02.01\\sql_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62859774-26D3-4FAF-8382-D46ACD97F46E}|UP02.01\\UP02.01.csproj|solutionrelative:up02.01\\sql_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQL_Connect.cs",
+              "DocumentMoniker": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\SQL_Connect.cs",
+              "RelativeDocumentMoniker": "UP02.01\\SQL_Connect.cs",
+              "ToolTip": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\SQL_Connect.cs",
+              "RelativeToolTip": "UP02.01\\SQL_Connect.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:57:40.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllUsers.cs",
+              "DocumentMoniker": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\AllUsers.cs",
+              "RelativeDocumentMoniker": "UP02.01\\AllUsers.cs",
+              "ToolTip": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\AllUsers.cs",
+              "RelativeToolTip": "UP02.01\\AllUsers.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:19:29.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\Form1.cs",
+              "RelativeDocumentMoniker": "UP02.01\\Form1.cs",
+              "ToolTip": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UP02.01\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:51:18.285Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\Form1.cs",
+              "RelativeDocumentMoniker": "UP02.01\\Form1.cs",
+              "ToolTip": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\Form1.cs",
+              "RelativeToolTip": "UP02.01\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:11:31.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "338e964f-b747-47e5-a131-f16c2b6c99e7",
+        "Display": 0,
+        "X": 545,
+        "Y": 280,
+        "Width": 1180,
+        "Height": 792,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllUsers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\AllUsers.cs",
+              "RelativeDocumentMoniker": "UP02.01\\AllUsers.cs",
+              "ToolTip": "C:\\Users\\429195-27\\Desktop\\UP02.01\\UP02.01\\AllUsers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UP02.01\\AllUsers.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:19:27.053Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

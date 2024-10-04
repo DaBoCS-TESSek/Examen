@@ -1,0 +1,26 @@
+E:\Учебная практика\5е задание\UP02.01\UP02.01\bin\Debug\UP02.01.exe.config
+E:\Учебная практика\5е задание\UP02.01\UP02.01\bin\Debug\UP02.01.exe
+E:\Учебная практика\5е задание\UP02.01\UP02.01\bin\Debug\UP02.01.pdb
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.AssemblyReference.cache
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02._01.Form1.resources
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02._01.Properties.Resources.resources
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.GenerateResource.cache
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.CoreCompileInputs.cache
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02.01.exe
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02.01.pdb
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02._01.Authorization.resources
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02._01.Registration.resources
+E:\Учебная практика\5е задание\UP02.01\UP02.01\obj\Debug\UP02._01.AllUsers.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\bin\Debug\UP02.01.exe.config
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\bin\Debug\UP02.01.exe
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\bin\Debug\UP02.01.pdb
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.AssemblyReference.cache
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02._01.AllUsers.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02._01.Authorization.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02._01.Form1.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02._01.Properties.Resources.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02._01.Registration.resources
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.GenerateResource.cache
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02.01.csproj.CoreCompileInputs.cache
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02.01.exe
+C:\Users\429195-27\Desktop\UP02.01\UP02.01\obj\Debug\UP02.01.pdb
